@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ddubi-dev?pet-id=646292055922032699"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **ddubi-dev/ddubi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
